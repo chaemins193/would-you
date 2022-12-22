@@ -64,10 +64,10 @@ $ yarn dev
 ## 주요 기능
 
 ### ✏ 소중한 사람과 **공용 일기장**을 만들어 서로의 일상을 공유할 수 있어요.  
-  <img src="/uploads/ae6b90ccf2d9100625d9db6ec4e10384/connect1.PNG" height="300">
-  <img src="/uploads/13b842d222ff2ea2d93f56faf4f1e493/connect2.PNG" height="300">
-  <img src="/uploads/ed4e1fbd091b2dd5ae5669cd47150820/diarylist.PNG" height="300">
-  <img src="/uploads/9c0423b294ff4a2343f07da297c43d27/calendar.PNG" height="300">
+  ![캡처1](https://user-images.githubusercontent.com/63277996/209142428-f134a53f-fb23-43a1-b505-6ee0761b9bfb.PNG)
+  ![캡처2](https://user-images.githubusercontent.com/63277996/209142431-4143e67e-6316-4581-a642-4878eb82a054.PNG)
+  ![캡처3](https://user-images.githubusercontent.com/63277996/209142435-7239bb61-01ba-4f83-a17a-b6775de842f4.PNG)
+  ![캡처4](https://user-images.githubusercontent.com/63277996/209142437-d5154a08-b494-4d79-9258-550e6d2b4b4b.PNG)
 
 + 마이페이지
   + 유저 코드를 입력하여 친구 요청
@@ -84,8 +84,8 @@ $ yarn dev
   + 분석된 감정 기록을 캘린더 형태로 제공 (나 & 상대방)
 
 ### 📌 추천받은 활동을 포함한 사용자의 일정을 **투두 리스트**로 관리할 수 있어요.   
-  <img src="/uploads/67bbe012d2e357de23bd7b88d268ff87/todo.PNG" height="300">
-  <img src="/uploads/8e1c8a897b22b1db667f109b5a7b7416/stamptod.PNG" height="300">
+  ![캡처5](https://user-images.githubusercontent.com/63277996/209142438-031022a6-dc0a-4a64-be42-26f9cb8a1bf2.PNG)
+  ![캡처6](https://user-images.githubusercontent.com/63277996/209142439-44559a98-b21e-4a6b-a545-76bd45d21639.PNG)
 
 + 일정 관리
   + 추천받은 활동은 자동으로 투두 리스트에 추가
@@ -94,8 +94,8 @@ $ yarn dev
   + 완료 표시 가능
 
 ### ⚙ 내 정보를 간편하게 관리할 수 있어요.
-  <img src="/uploads/188c742576476a35e9c7e7499aa6f78b/mypage.PNG" height="300">
-  <img src="/uploads/3de2f576e86b79fa102d874c9aa4d3a1/connectedit.PNG" height="300">
+  ![캡처7](https://user-images.githubusercontent.com/63277996/209142441-b0cc9317-71a0-4cb0-8f04-985d86e49fc0.PNG)
+  ![캡처8](https://user-images.githubusercontent.com/63277996/209142444-296e9d13-6539-4024-b86d-e8fd8a5e7a1a.PNG)
   
 + 마이페이지
   + 닉네임, 비밀번호, 일기장 이름 수정 가능
