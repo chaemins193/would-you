@@ -1,7 +1,17 @@
-## Back Document
+# Would, U?
+> 친구와 함께 일기를 작성하고 서로의 감정을 돌아볼 수 있는 서비스
+
+## 프로젝트 개요
+- 개발 기간: 2022-11-14 ~ 2022-12-16
 
 ## Technologies Used
-[Nest](https://github.com/nestjs/nest) : 실무에서 많이 사용되는 Javascript 프레임워크   
+`Back-end`
+
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+Nest.js : 실무에서 많이 사용되는 Javascript 프레임워크   
 MySQL : 다양한 MVP 데이터를 나누어 처리하기 위하여 선택
 
 ## Installation
@@ -32,7 +42,6 @@ $ npm run start:dev
 
 ### ERD
 [링크](https://dbdiagram.io/d/639abe5999cb1f3b55a1877c)
-![우쥬-최종](/uploads/96353421e7f0372a574b122365878635/우쥬-최종.png)
 
 ### Folder Structure
 ```bash
